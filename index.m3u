@@ -30,8 +30,6 @@ http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
 #EXTINF:-1 tvg-id="Ajyal TV ARB" tvg-name="Ajyal TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" tvg-country="PS" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6WiXPd9.png" tvg-country="AE" tvg-url="" group-title="",Al Aan TV
-http://livecdnh3.tvanywhere.ae/hls/alaantv/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6WiXPd9.png" tvg-country="AE" tvg-url="" group-title="",Al Aan TV
 https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://jascotvstreaming.com/uploads/topics/15189497461737.png" tvg-country="SD" tvg-url="" group-title="",Al Alamiya
 http://82.212.74.100:8000/live/hls/8950.m3u8
