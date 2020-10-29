@@ -63,7 +63,6 @@ https://tv.stream.alkompis.se/hls/live_720/index.m3u8
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
 #EXTINF:-1 tvg-id="AL Rai ARB" tvg-name="AL Rai ARB" tvg-language="Arabic" tvg-logo="https://www.klma.org/wp-content/uploads/2019/05/alrai-tv.gif" tvg-country="KW" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="",Alrai TV
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=1053886998
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" tvg-country="PS" tvg-url="" group-title="",An-Najah Nbc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/arriyadiax2.png" tvg-country="MA" tvg-url="" group-title="Sport",Arryadia
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/arriyadiax2.png" tvg-country="MA" tvg-url="" group-title="Sport",Arryadia
